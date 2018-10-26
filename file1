@@ -2,5 +2,9 @@ added new line to file 1 and just edited from remote
 add line 2
 add line 3
 add line 4
+<<<<<<< Updated upstream
 add line 5
 adding line 6 from local
+=======
+add line 5
+>>>>>>> Stashed changes
